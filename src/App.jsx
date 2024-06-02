@@ -1,10 +1,10 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import MainPage from "./component/MainPage";
-import FullStack from "./component/fullStack";
 import DataScience from "./component/DataScience";
 import CyberSecurity from "./component/CyberSecurity";
 import Career from "./component/Career";
 import All from "./component/All";
+import FullStack from "./component/FullStack";
 
 
 const router= createBrowserRouter([

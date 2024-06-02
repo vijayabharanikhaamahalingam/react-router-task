@@ -1,7 +1,7 @@
 import Career from "./Career";
 import CyberSecurity from "./CyberSecurity";
 import DataScience from "./DataScience";
-import FullStack from "./fullStack";
+import FullStack from "./FullStack";
 
 const All = () => {
     return (
